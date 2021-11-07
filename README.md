@@ -39,3 +39,7 @@ make setup
 ```
 
 Run `make help` for help.
+
+## Releasing
+
+`git tag v?.?.?`
